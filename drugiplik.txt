@@ -5,3 +5,5 @@ dasdadaDSASD
 23srer 
 feature _x to zrobkilem jako ja 
 feature _x to zrobiłem jako ja  2
+feature_x 2 to znowu ja dodlem sobie coś tma 
+feature_x 2 to znowu ja dodlem sobie coś zmowu
